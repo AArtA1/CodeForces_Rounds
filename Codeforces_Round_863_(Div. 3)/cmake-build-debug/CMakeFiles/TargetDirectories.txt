@@ -1,0 +1,3 @@
+C:/Users/aslan/CLionProjects/CodeForces/Codeforces_Round_863_(Div. 3)/cmake-build-debug/CMakeFiles/Codeforces_Round_863__Div__3_.dir
+C:/Users/aslan/CLionProjects/CodeForces/Codeforces_Round_863_(Div. 3)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aslan/CLionProjects/CodeForces/Codeforces_Round_863_(Div. 3)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
